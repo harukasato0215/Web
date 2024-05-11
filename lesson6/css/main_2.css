@@ -1,0 +1,38 @@
+#container {
+    width: 700px;
+    margin: 0 auto;
+
+}
+
+header {
+    height: 200px;
+    background-color: pink;
+
+}
+
+main {
+    background-color: aquamarine;
+}
+
+#left {
+    width: 500px;
+    height: 500px;
+    float: left;
+    background-color: yellow;
+    opacity: 50%;
+}
+
+#right {
+    width: 200px;
+    height: 500px;
+    float: left;
+    background-color: lightblue;
+}
+
+
+
+
+footer {
+    height: 100px;
+    background-color: aqua;
+}
